@@ -17,4 +17,22 @@ a{color:var(--aqua)}.wrap{max-width:1180px;margin:auto;padding:0 22px}.top{borde
 <article class="card"><span class="num">05 · LEAN SIX SIGMA</span><h2>Eficiência baseada em dados</h2><p>Ferramentas de análise, redução de perdas, variabilidade e controle.</p></article>
 <article class="card"><span class="num">06 · RISCOS</span><h2>Seguros & continuidade</h2><p>Segurança do transporte, prevenção de perdas e gestão de riscos operacionais.</p></article>
 </section><section class="panel"><div class="eyebrow">Próximas edições</div><h2>Formato editorial</h2><p>Cada publicação trará até cinco desenvolvimentos prioritários, fontes com data, explicação do que mudou, análise da relevância para a gestão e um próximo passo prático. A edição será identificada por data e arquivada para consulta.</p><p><strong>Estado atual:</strong> esta página apresenta a estrutura do briefing. Não representa uma edição atualizada nem um painel de notícias em tempo real.</p></section></main>
-<footer class="footer"><div class="wrap">ATHENA INSIGHTS · Briefing Executivo · Informação, contexto e ação.</div></footer></body></html>
+<footer class="footer"><div class="wrap">ATHENA INSIGHTS · Briefing Executivo · Informação, contexto e ação.</div></footer><section style="max-width:1100px;margin:34px auto;padding:20px 24px;color:#eaf6fa"><h2>Radar automático de fontes</h2><p id="athena-radar-stamp">Aguardando primeira coleta automatizada.</p><div id="athena-radar-list" data-group="executivo"></div><p style="font-size:13px;color:#a4bbc8">As manchetes são referências externas e podem exigir validação editorial. A revista original acima permanece preservada.</p></section><script>
+(function(){
+const target=document.getElementById('athena-radar-list'), stamp=document.getElementById('athena-radar-stamp'); if(!target)return;
+const group=target.dataset.group;
+fetch('data/radar.json?x='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('sem dados');return r.json()}).then(d=>{
+const hours=(Date.now()-new Date(d.updated_at).getTime())/3600000;
+if(!Number.isFinite(hours)||hours>120||hours< -1){stamp.textContent='Radar desatualizado; consulte as fontes originais.';return}
+stamp.textContent='Coleta automática: '+new Date(d.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'})+' · Manchetes RSS, sem análise editorial automatizada.';
+target.replaceChildren();
+(d[group]||[]).forEach(section=>{
+const box=document.createElement('article');box.style.cssText='padding:18px;border:1px solid #29465d;border-radius:12px;background:#10263a;margin:12px 0';
+const h=document.createElement('h3');h.textContent=section.topic;box.append(h);
+if(!section.items.length){const p=document.createElement('p');p.textContent='Sem manchetes verificadas nesta coleta.';box.append(p)}
+(section.items||[]).forEach(item=>{const p=document.createElement('p');const a=document.createElement('a');a.href=item.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=item.title;a.style.cssText='color:#80d8d9;text-decoration:underline';p.append(a);const small=document.createElement('small');small.textContent=' · '+item.source+' · '+item.published;p.append(small);box.append(p)});
+target.append(box);
+});
+}).catch(()=>{stamp.textContent='Coleta não disponível ainda. A publicação inicial permanece acessível.'});
+})();
+</script></body></html>
