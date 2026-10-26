@@ -1,5 +1,8 @@
 name: Atualizar radar de noticias
 on:
+  push:
+    paths:
+      - '.github/workflows/atualizar-radar.yml'
   schedule:
     - cron: '0 10 * * 1,5' # segunda e sexta, 07:00 em Sao Paulo (UTC-3)
   workflow_dispatch:
