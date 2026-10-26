@@ -1,0 +1,26 @@
+name: Atualizar radar de noticias
+on:
+  schedule:
+    - cron: '0 10 * * 1,5' # segunda e sexta, 07:00 em Sao Paulo (UTC-3)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: atualizar-radar
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar manchetes com data e fonte
+        run: python3 scripts/atualizar_radar.py
+      - name: Versionar atualização
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/radar.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza radar de manchetes"
+            git push
+          fi
