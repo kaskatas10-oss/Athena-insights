@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-10-30T16:34:31.519286+00:00",
+  "updated_at": "2026-11-02T20:02:03.968560+00:00",
   "method": "Clipping automático de manchetes via Google Notícias RSS; não substitui a curadoria analítica dos briefings.",
   "ia": [
     {
       "topic": "Inteligência artificial",
       "items": [
         {
-          "title": "UFMS abre 900 vagas EaD em tecnologia, dados e inteligência artificial - PEBSP",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2ktTjNDSnB3VXpzQWxabGstdlNQNGlRTlpybmxCZU1WX3JRclZmWXBBRmNTcGZTbWhZd3Z6RDJWQXRzQnk0WmM1N1dVdmJYbGdDaW5UVlhFcmlWdGlFYnpVUmxzSUticHBhdTlsZ3RvVm1SdVVIOE1FUWx3eWU1dTN2QjlBWEN5WjV0R3VPVlBQTmJHSkgw?oc=5",
-          "source": "PEBSP",
-          "published": "Fri, 30 Oct 2026 13:30:46 GMT"
+          "title": "CG Tech Day: especialistas abordam IA e mercado de trabalho em tecnologia – CGNotícias - Prefeitura de Campo Grande",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWxmQTdVTVgwcUI5bVdPNzBSelozSHBRbHY3NGFlZVRFSXlBME02WVhfVTA1SG5uSk5nNGQwYTNWRThwem9ONzYwbWxzcjUzQTNoZm5USkMyQS0zV2h5VFRlb0Z2SVNnQ1lIdW1BSUFKaVdvdTJ5Y2FtdkhUN0FvZ0JobzV0Z0JNcGx3Z1ZScndhQjFmQVpMYWwtS1RrckNmNFVFWDdfZER4b2JhdDZoNDBpNXlZY0k3cy0zQmZXZUxHa2hS?oc=5",
+          "source": "Prefeitura de Campo Grande",
+          "published": "Mon, 02 Nov 2026 12:14:00 GMT"
         },
         {
-          "title": "Quando a inteligência artificial vira commodity, o que gera valor? - Fast Company Brasil",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFpYTmp6NzJpc0pqb3dLRDVHU1JlRVQ0T3hZYnZvWXBubXN3YWI0cWMtVTUtdTdmbjAzWkVJN0lfdWJnenQ1a1BJS05wMk4yTDdBeXJsZHc2NEVFVUJtR3pHYWc2MFBlVFVtbXk3UW16UkdaRHI3ckZwV3lLbGRVTVdydTNLeWlWY3VnZ3Rab0x1UnVGcjdDaVFrVGUwWEN4QlNjX3ROdw?oc=5",
-          "source": "Fast Company Brasil",
-          "published": "Fri, 30 Oct 2026 10:04:48 GMT"
+          "title": "Evento gratuito sobre inteligência artificial e tecnologia está com inscrições abertas - Midiamax",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVZSbEQwRm5QS0h6VDJFd2ZURTA2VXhxUi1jYUdpRzdLR0t1SFB2YnU0WWJKUlFvdHBKS0RTVk5La3lIM0szZmtxVW9OeVBhbnBINDZIZ0hFYlJMb2dLWGdOSEh2bkxUdUw0UDYzX2tpbFhmSlJRMHRMbUJwd0huMFQtQWFNRUhJZmpHZXZWVWU4b1FXb3R3eEVTYkk1NUg4Yksw?oc=5",
+          "source": "Midiamax",
+          "published": "Mon, 02 Nov 2026 15:20:00 GMT"
         },
         {
-          "title": "Contratações públicas e inteligência artificial - Migalhas",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTERoZHF5aUR0Z0NzME9SRzZFLWdIZ1hMRm9rSy11QlZIZWxqZTAyQUNVRll6MG1pckRYemNOX3Vxb1V2cENpSVpmdTNsd0ZsWnB6emVrc2JfY2RLNW1MWmE1RFJCcUtaY2RlV2NtbVg4OVpfWHJvN3RGSWhIeWJQU2wyajVlUEJzUkJmSGpUSzdDNUE?oc=5",
-          "source": "Migalhas",
-          "published": "Fri, 30 Oct 2026 12:10:40 GMT"
+          "title": "Evento destaca como inteligência artificial pode aumentar a produtividade nas indústrias - Noticenter",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWtiMGg4U3FTNWhCRFdIVGwwZ2RzdDlHU2x4bXBGNUxrQ0dyZTE1Y2x3UzNtSGJBUENLYkl5TDEyb0RncEpmUmF5dGtyTTN1b2FZazR6YWZUZEVMTkZjbzBXVTJ5LV92Ni15MUlPR3AtWjJwY3V2NjBmd0Z4VVN4LUdpNXlJVURicmE5alJPTUZqck5TYTNzVUw0OXphTVZWZHRXc2t5c1ZVLTBoQUtyT0NmR3dzVWNPeWgwUjQwWFFvX2dadlFDZ0JjVHg?oc=5",
+          "source": "Noticenter",
+          "published": "Mon, 02 Nov 2026 13:37:00 GMT"
         }
       ]
     },
@@ -29,28 +29,47 @@
       "topic": "Modelos e agentes",
       "items": [
         {
-          "title": "ChatGPT lidera ranking de ferramentas de IA mais citadas em vagas de emprego - Valor Econômico",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcTBlaFJ4RXF0MGYyQkRGUDJEenp6WHcwUDZSOGlpeEVtY1ZiRzVRVXJXN0hxXzhEbEFhcDEyRlc0Z1gyejl5VHdGR09zdld6RS1SX3VnX1AwT1ZMRkNJajZEOGQxM2hCbmN4MHItbnFyUHBJaTh5djZrOHBGYmRDa2lHcllERzhneC01dmk2WGNVa3Uya0pmM3lCRktSZ2UyQVQzVXFFc3AwVEtDOXZ1N19CZUtyMDBFUmIwYzkyaVRNQVRFZDZPUW1uSDBwTTNYc25RY0szVm00Z2NfMnB3Um03eUjSAfMBQVVfeXFMT2trR1ZpeXJMWnFiWENXbDk5OUxWQXhFNWs0a1l4VHpLYU1vZ2ZjX1hBTXJ2NUVUb1doR2lBMlVHWTFoU1Vqemhzc3FoVU5xSWt1Q3E4RWdzMWtPcTVfZlJlVnRHVDJZUVhLYVFJbkJzUThwSzNEcDM5cEF3eFRyWVhIY2JsMTBSeHI4dG5FMEY2MGVOUUpzS0YzdU5QXzlIOE5YdmdJQ09UeTNQY0Rxd0pYckgyTi1RenA5bjREMEdxaTlXX1VucUlVbWlkLXQzV0xUTkdVZWY1NUkzbmFYZFFtRll2REU3dUt3bmZQZDdGRm53?oc=5",
-          "source": "Valor Econômico",
-          "published": "Mon, 26 Oct 2026 21:28:20 GMT"
+          "title": "ChatGPT, Gemini e Claude terão novas limitações; entenda - Terra",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnluS1VZRDFjc0U1SmJjODNlZkp1Z3Nrckp3RDJsVld1Z1JiYjhCb2hlMUlZc1U2V1B5bUZrd3lXM29ROXNqV05MVVE2dl9PREZ6MUswSlhJQVRydjN3bnhmQzBLRjhScTVSTDRNbHVlVm9oZ3VFdkd3VjFPWWRwN2ZnNENGbDkzbHB1OFJDOHhLMEJKRURhMG5GeUxIZzVCaXVZcWVVMV9ENWlmV0FPWWI4MmFxb0dSWEgtQVNjYkJQSjd3eUlhVFJR?oc=5",
+          "source": "Terra",
+          "published": "Sun, 01 Nov 2026 09:31:00 GMT"
         },
         {
-          "title": "Com o Claude Code, os especialistas seguem o agente em 86% das escolhas - Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0xicFVIM0RyTms5S2YzUjRUYVFfOTVQZkFZdnFUOFBLWkFwQi1xeGc1NnRFXzdSX0Z6U3o1U2dXR2dJbmxOR0RjQVg4aC1LLVQxQzEwTnA1bElqcW9VanVTNmFiVzNDY0c4NlVIU3g5bW00cmtYVGg1amwxcVRsbTBCNHpjSzV3UUJoc1hIQQ?oc=5",
+          "title": "ChatGPT vs Gemini vs Claude: Quanto custam as assinaturas de IA agora - Notebookcheck.info",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTRHWWRpeTVTem9heEgzVUhCTmFrLV9iaTZMYUUtWF9VZEtLRmdELVJqNDJ1MTdvN2h4aFc4SjhCdzNiR1NLMFk0dnIwX0Q5ZHRLdkUxREJfTEJHNzhTRkdodm5vTi1YVGZhSEMwSEdqRk90MC1ITTRZZWpaNXdPS2sxcDk1Z3RIbGtsVUxmR0xPT3FGSXM0Nkp5ZEU2Z2MyZ0plTE53QVJDXzBDRkk5LURmSlk?oc=5",
+          "source": "Notebookcheck.info",
+          "published": "Sun, 01 Nov 2026 23:24:00 GMT"
+        },
+        {
+          "title": "GDPx chega e os melhores modelos de IA não passam dos 12% - Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGZXSjFna2FSUzJFaXlTYTJ5R1AtQlJ5QUlMTWpxbXBmWXJXYjdobFBvMW1kalo5cVU5RnhwemwxX0prZnRiR2JwRWVkWUFmdTV4NlVfY0d0dzdDZkhhNmEybk12dUVyTU1zcnR4ZTFJYjFCaFpoSmpDMU5BLTJyTFdpdW5MQQ?oc=5",
           "source": "Pasquale Pillitteri",
-          "published": "Fri, 30 Oct 2026 12:53:33 GMT"
-        },
-        {
-          "title": "Nokia 6300 de 2007 ganha suporte ao ChatGPT e Claude com o projeto Aikon - TudoCelular.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcm85Q3l2OVF2dWNlM0V4cndrMTNsb29YYlFhbjdzSkhoQ3U0cFF2ZEtaZExTeWJOY2Z3NnE0ZFJJUVRfOFNlUG01SFZicGtkN2k1TW1iZEpKWDJFMnFwYWdDOWlWY3RkTzNxLU8yak81NEdHZ0tDcWVCLVlCd2VqVG1temxWTWtNVUtZNHFkSFpvVHRTRXIyU1loSQ?oc=5",
-          "source": "TudoCelular.com",
-          "published": "Wed, 28 Oct 2026 12:45:14 GMT"
+          "published": "Mon, 02 Nov 2026 19:46:09 GMT"
         }
       ]
     },
     {
       "topic": "Segurança de IA",
-      "items": []
+      "items": [
+        {
+          "title": "Dentro das diretrizes de segurança de IA do DHS para infraestruturas críticas - IBM",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2ZtOXFYX2RIWG0tUkNVNzBTM1J3TGpKMVA0OUFZSlozdmRINlVGWnBxcjA4cnhLSkVHeUd5UDFOQ0JXOUxWRWx3NTBJdmw5cGJuRnpTSDdMNFR2d3lxYklQQmhYRWtmbGNlZTk3T3A0eUIwakpxNC1wSVpmQldBbVFWeWpIeEZvYTM1QkFzQU8?oc=5",
+          "source": "IBM",
+          "published": "Sun, 01 Nov 2026 13:07:31 GMT"
+        },
+        {
+          "title": "Sam Altman: a IA revela falhas de segurança - MaisTecnologia",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQUROd3laRmFkd0FzM2dsUnNmOFByTTJ3Z0wwN2RLWnFTcktZOGRvVlluRkktY29xYVUyM1pub2VES3hPMHVpZHd6SWNrUXl3WVAwYWZOeldaTWVFdmNGMDRvcWhSUlZpbnQycm12eUF5Wkd6VDA0VHJ3bHFhVVE?oc=5",
+          "source": "MaisTecnologia",
+          "published": "Mon, 02 Nov 2026 10:15:51 GMT"
+        },
+        {
+          "title": "CERT.br inclui riscos da inteligência artificial em guias de segurança digital - Portal IPNews",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1htQ2hLS2tiNXFmQlNDLWlDMnctc1d6bUU5ZXByT1FSTk1nc2s2ck5QbW5FTUd2Y3RXRWQ3MGN3YXBPN1lraURibTV4N2JOX242OEFLalBzOEhyWVhoekpoWHNmb1NVajhhRUNVZ2lLeGhvUnI4SjZoN1J5aTl4RVBieUJ0RUJHQ1h2SHJ0SWtPVFAwMGZDLW5SanRRd1B4eEpVQzRsM3M1UWPSAasBQVVfeXFMT1NYbUNoS0trYjVxZkJTQy1pQzJ3LXNXem1FOWVwck9RUk5NZ3NrNnJOUG1uRU1HdmN0V0VkNzBjd2FwTzdZa2lEYm01eDdiTl9uNjhBS2pQczhIcllYaHpKaFhzZm9TVWo4YUVDVWdpS3hob1JyOEo2aDdSeWk5eEVQYnlCdEVCR0NYdkhydElrT1RQMDBmQy1uUmp0UXdQeHhKVUM0bDNzNVFj?oc=5",
+          "source": "Portal IPNews",
+          "published": "Thu, 29 Oct 2026 20:34:29 GMT"
+        }
+      ]
     }
   ],
   "executivo": [
@@ -58,22 +77,22 @@
       "topic": "IA em operações",
       "items": [
         {
+          "title": "WEBINAR: IA na Logística — Cases reais e tendências para 2027 - Mundo Logística",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFM1Yzg2djRrN2s4RmZmTWxHb19ObXg5NmZCNXdJQloweGpqYW5iaFB4a2tCaGZXYm9SVkJ4SDd0WHFoaXltdE5HSzVPTFZoa3dwZFJzbVJieVU1elBPdHJjSXk1OEtzY2UxM2xONXE2aFMzcVB3TFhseERKMjNoTHltWjhxdw?oc=5",
+          "source": "Mundo Logística",
+          "published": "Fri, 30 Oct 2026 19:08:43 GMT"
+        },
+        {
           "title": "Da automação à decisão: o que a IA exige da gestão do e-commerce - E-Commerce Brasil",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWNPUnNXWkRvYXViY2oxc1VqRS1VMWFQbFN2Zy1SMjVBQXNxZVZEYk9tR2RFdklNZ21wcS1HSlFGV0M3TGpqdEExTk9fTy00TlZUQ083MUdHOGNlZVdGeWRTWG1ySFc1ZVZhcUhVdEpOMXV6OTlSWnRNNTZETjlROVlFVTZCTVpQcFhnNlFMSldEREw0TG83UkV3WHhyZ3lNcE1vbkhoclg5UQ?oc=5",
           "source": "E-Commerce Brasil",
           "published": "Fri, 30 Oct 2026 13:00:00 GMT"
         },
         {
-          "title": "Pulsus apoia operações logísticas com agentes de IA - Mundo Logística",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVgzcU1vOTRUcV9CTWE4a0l6X3JMa0lKTnRlNkdZLXJ4U0hCVVdtd08xTUpZUDFtVHlEU29pQ1RPVW9GaFFSOG1OSi1zdFpuZGRMWmhLc3R4NkRXX0Y5bl9Tc1ZoMVFvbW54bHo5cUdfWTljYTBHZ1M4RU9JaUhOMXJZOA?oc=5",
-          "source": "Mundo Logística",
-          "published": "Wed, 28 Oct 2026 13:35:42 GMT"
-        },
-        {
-          "title": "Tech Day 2026 aproxima IA da rotina de bares e restaurantes - SindRio",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk1VY2R5dFhpNUlPd3o0V2VFWS1KQURVVUVHcmlKTnB4eGpQS2lzZkd0OVYwbWZya2R3eHQ3OF9DMFUyZjNfZzgtdE0yWnRGa1hBZzFiLWxFNFhxc25HVkt2MHZWTmItTUZZT2U0NzdxeGgtV0I5WEdVR09YZ2JEaWpXSFpmeWRIZUpQM0JoV0Q4MjgtbDZaeTIwYw?oc=5",
-          "source": "SindRio",
-          "published": "Wed, 28 Oct 2026 13:05:08 GMT"
+          "title": "Tecnologia da informação aumenta eficiência, produtividade e vendas no varejo | SEGS Portal Nacional de... - SEGS Portal Nacional",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGZHOTFiTGppRFIwRW52OVY1MllHREhoeko2eUo5X0JiaGlvYzJ3MUl5Qnl4ckdISGRTcnB2R2xKQ0ZTWE9YT2otV1R3U2xNT2x2MV9tbzhnOTBmdkRfemdndmc4S3BIUlRRMGNuYnRZZ0Y4X2d2ZGV1ejBqOFRHeTk2M1pRX2EzVG1ad2FzeEU5RElDTFluRGF5dzBFbkVudkV3bUM4WmZTNnpZTGtuR3JHTlgwQdIBuwFBVV95cUxPQU1YRDRWand3eTVkUlh0c012N05YYTZpREY1LUNVX2xaUzlLdG13NEU4cUQwODRjUzRmdWFwdFJzUXhXdVc4V0V1Q3JvRlJvWVMyZ2FZb3p1RHg1WW54UFBTemdyM1dwczlodnJwOEZrcjduTmZNVm5jak5VazBDcXdueEtnNXkwOHd1Um14ckp6MHl4YWFFcS1LOTdMQU4xMjdrbmhtZDZwWllUY3NkZFlIZmVUZTlmRzVj?oc=5",
+          "source": "SEGS Portal Nacional",
+          "published": "Fri, 30 Oct 2026 21:09:28 GMT"
         }
       ]
     },
@@ -81,28 +100,34 @@
       "topic": "ESG",
       "items": [
         {
-          "title": "Empresas que priorizam sustentabilidade quase triplicam e podem checar a 58% até 2028 - Inforchannel",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSnVtb09JeTFuemdpblA4NjRtb2V3eERoOXZnOS1qWS1wS0t6aTV1WWhpZFdlQW1HYnY5RDR4Rk1OYWJqT3BNQXMxdzJaMXZrRlhXd0FZWktFR1RNZkdLYXo1N0JKSXB2Rkx1cng3empqZnNOc3NDZTA1MU5tTHprRTExYjMwQWdvbUtxWC1oTFZKLXdCYnhPVEhIN3RvMFhqMndJdmZoelZlU3BDSG9ybmpkMjZJazhMVl8xWU13SFN3aGFkRlVlS183YVp0SXEyT3NmV1ZCbWpxUC1ObzJsUmNLOXRrcl9nd2RnUlVBZXdheGJTci00Vw?oc=5",
-          "source": "Inforchannel",
-          "published": "Fri, 30 Oct 2026 10:58:34 GMT"
+          "title": "O papel crescente do ESG dentro do mercado financeiro - Bora Investir",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGJXa2tvOVF5MUFfM1FyemVScE93c1B6MlREbWYyS1E4WHVOWnRiSjFRUVZjTVRxd2hvYlFUOWYwOTQ1MnNMc3p1dXZmSVZsY0N3dm81Z21ZVmNjQk9ZeTlQeDk2dFBlR1ZqTW56eUhMUlNYbHZjTWprakJWV2lkZUNfVGVqT2F1Mjl0WXp1RzFUZk1RaGZScnFLY0tWd2M?oc=5",
+          "source": "Bora Investir",
+          "published": "Mon, 02 Nov 2026 13:00:00 GMT"
         },
         {
-          "title": "Gestão Sustentável: como relatórios ESG ajudam empresas a enfrentar riscos - Exame",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcG10dE81NUw3Z05ObUgyOEdaSm1xbF8tTy1KRmt5ZlFNTExmVV9PZnp3c1dxclh0TXRMcTBKUWE0Y05jSTJFNDZVbDVtTDBkbkZSek5jMnlmVWRXaFh5MmV1T2ZtUWx1OGoyaElkRlRuc0lKOGZjX2RYcXFlS3hGSy1zUWZnM3JhV3gyaGJBRnpUSjg5RWRZ?oc=5",
-          "source": "Exame",
-          "published": "Thu, 29 Oct 2026 18:55:29 GMT"
+          "title": "Gestão Sustentável: como relatórios ESG ajudam empresas a enfrentar riscos - Contadores.cnt.br",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0RzWEhkQ0dwNWJSWWV4TnpDUXJsUWRyR05WdXZIMGM2czgwSUd4aEVPWk9LSVJ2b0V0Rm9ZQ2hxRm4ta2t1UHNMUHhJOVVMa001eGlKZW5IVVNBNkcwbEsxdHRTN1BjRGlBZl80YjdBVW0yT2huaVBwSDFVeDl1MjFFM1dKbThRSkVBR2x5OTRlOVQwQUFOZlF0TjBmci1iaWUxZ0lpNW1zREo1bXE0eFFINUxERktOYlhPRmt2OE1DNHlSSmZEb2lmRVlhVl90a0hZakJRQWw?oc=5",
+          "source": "Contadores.cnt.br",
+          "published": "Fri, 30 Oct 2026 12:18:00 GMT"
         },
         {
-          "title": "Empresas do setor podem destinar parte do Imposto de Renda para projetos sociais; saiba como fazer - Canal Solar",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcl9CcmlBMDMxQm9mWm41Uk82dFZ1dkN5cGhFSWdaa2c0Z2hCOVNvSklWZ2JuTHZTNXJBdkU1SW5rc083TndxdkJ2Y3NtdU55RTFLT0xoUl9lczFxS204bnZDTWZQZ0RuR1FTbi1uQjBVeUx3a0xQOVlTTy1tVHhlRElXcndsTklX?oc=5",
-          "source": "Canal Solar",
-          "published": "Thu, 29 Oct 2026 17:20:02 GMT"
+          "title": "TopMed recebe prêmio de sustentabilidade por triagem de câncer com IA e redução de carbono em telessaúde - Brasil Inovador",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVERDSjlSa1Z3aHNIODVTUEJXcUFxekpmOXhOOW54bTZxZy1QMmVWVlRVM3lCWGlYZ2VldnVjbkpXd0hReThHMUhVV1VRSE1Va05UZ2dBaEhLMFkzaVhpOXJkZl80NnYteXFtRm02RGFWd050NkpPT1JXTy1mcXFiaUh0Z1F3WDY4OFFiNmJzRFZaUWQ1cl95NzZYOXlmaW9Dc1FTcHJnRG4zakNnWlUtSVc4Tkd0SEctZm5fV0VMQ1BFck5Na1RUUnpsNXRzV3JJ?oc=5",
+          "source": "Brasil Inovador",
+          "published": "Mon, 02 Nov 2026 16:50:05 GMT"
         }
       ]
     },
     {
       "topic": "Qualidade e processos",
       "items": [
+        {
+          "title": "GDF reformula programa de boas práticas agropecuárias - Agência Brasília",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWdHZ3JXLVk0MV9rWi1uMG5BYVBlVzJSRlBNaERjTmEyT2dYU1MwNXhrQ0c5Wk1zczRQNGZxVnUyU3g0QjVmWld2NzJJbzA4bzBWMDA4LU93dGdCaTUtbFQ0MnRENnFDTWY3LU1OTGpCLVp0QWZELUJaV2daenpaaWZmS0VVOVZaeDM5NUFRbjVPdFYyMXY0Ug?oc=5",
+          "source": "Agência Brasília",
+          "published": "Sat, 31 Oct 2026 21:04:00 GMT"
+        },
         {
           "title": "Minas Gerais recebe II Fórum de Qualidade em Bancos de Leite Humano - Agência Fiocruz de Notícias",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGdUN203VUEyd2xaTFZhTEttQy1sLWVFaHhEQmFjZENvQVRtanN4OGl1XzRNSkdlQmxKR1dfaFkyeXpCVWNZRGlpYUQxYnFpNmJMdFl1NVgyZFV1bFJLbmtGOUkyZC1IMmY1WTdrakFqZW9xMFVVOVdMSWtiTG9rQUc3Vm5IQnBWWlp3MUw2Xy1tNC1ILWRhX2Nn?oc=5",
@@ -114,12 +139,6 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xNWZKaVk2dTVaSjlZRzU1UmlWejZ1TjNQT1pSQVVkNGxTZS1MUl9zdkRsMHpGQ3lrNlR2ZzI4LWpGQzBJOThITXlTVjhKYkZIend4SkVZd3JUR0NjaXp1TXltakNmZ19NNG12OGptamlrQQ?oc=5",
           "source": "PMFS - Prefeitura Municipal de Feira de Santana",
           "published": "Thu, 29 Oct 2026 20:39:56 GMT"
-        },
-        {
-          "title": "Professor da UFLA passa a integrar equipe técnica de programa brasileiro de melhoria de processos de software - UFLA - Universidade Federal de Lavras",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWkJoUWl0X0JtTl9aTzFqYWlhZ3BVZFVjMkNtbzVrUDB6UF9iYURSTW5YNlRGdEFHV01tVy1RSnhFa0VkWlRxRTd0YnpfMmx1SlgxaFpFX2l1Q3lBMW1vOE82WFpqYkNyV2NmTTN0OXVCbjFDdmV6b2Rta1VHSklGVkthem4wd1BuZXVoRlU2MmlKS0d4TTluZk1BeGdzTEdLdmdsWTV3U0gyMmlHSi1LR1Vrd3hLcm10MklTWnk0UldxcEo1b3VXb3dSOTFSRkZHSHZEc2V0TGdmcUxvS3dqZUIzbE1NVzdlRXc?oc=5",
-          "source": "UFLA - Universidade Federal de Lavras",
-          "published": "Tue, 27 Oct 2026 15:54:00 GMT"
         }
       ]
     },
@@ -127,41 +146,28 @@
       "topic": "Transportes e seguros",
       "items": [
         {
-          "title": "Solist leva metodologia de gestão de risco e série de entrevistas à Fenatran 2026 - Revista Cobertura",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3BHMEhVMkpvZ3Y0TS1IVDViVFpUZjdZTU1GVmZCMnRJbWg5U1UzZGZXcURLRzJGRldpdHhma2x6azlCaGRoTUp5NUF5THhMYVJWbWx2QktXQy0xSlpPelJtUnNzX1lFVUpsb2VhakV5UmJLckFJd2xBU1ZVUTE5UmdqQ1dQRVRPMjBWbXhhcEh1ZUo5Y0RBeHpIbjdPUl9hM3NuZzAxQ3RhMmpCRzFTMWJ2eGFSZlc2NGxhYmg4MXp3cTdfMGZDMzBkR080V3lhOUR4VDd5azE4dw?oc=5",
-          "source": "Revista Cobertura",
-          "published": "Thu, 29 Oct 2026 23:27:20 GMT"
+          "title": "Custos de transporte e logística aumentam mais de 500% e agravam riscos para segurança energética - Jornal PT Green",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3V4NzBGcm9JZDdTYUZVUDhkRHBpVHo5TUdmZjMzWjk3OGI1NzJ5dzVQdDhtOVByUDY2VmxvamZnY1p2b1VLRVltcW9BdzBRTFgtVHNtMVpRREcxOHNabnI4RVpROUdQTlR3LXdPSHJnMEpiQl9kTk1NTU5nNFBTSkt3WUpRZ2Z2Wk83Zy1mTnFpMVhTdlNpNnZzeFdsM2dZbFE3NW1aNE9CMmpBZ0hfM21EVmR6T2tOUUlUeEVXYnlmNF9lVWVFQUhUbXo?oc=5",
+          "source": "Jornal PT Green",
+          "published": "Mon, 02 Nov 2026 16:01:00 GMT"
         },
         {
-          "title": "Solist apresentará metodologia de gestão de risco na Fenatran 2026 - Transporte Moderno",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmlQRVIxR2ltejVYNlA2M2pjQzVHODViaHhCMUxjcE9GX2lLSlU3eWx6REd2bjFIUHhseG95QmxlMklic1NZUm93MU1ic1ZDQU13d0ZEYVZRbnJTU1JrQzRqYjUtSTNzc1ZqRm9hdzkwWlNlRlhFVHl2YUQ1aVVncXNhVnRFRjBtWTFqeVdqejEzREtRaEpKLTJ5dDc3UFBPV3pUV2YwMGtXZG01SzlvTA?oc=5",
-          "source": "Transporte Moderno",
-          "published": "Wed, 28 Oct 2026 18:39:49 GMT"
+          "title": "Setor de transporte de cargas prevê alta nos custos e reajustes nos fretes em 2027 | SEGS Portal Nacional... - SEGS Portal Nacional",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmEwQi00YTBCUHkzdm1DMDVqMVhsbE1qSllFSl9kU19UU01aZFZhVXpsSG9lTVdkZURjd1VSdWctYTI0ektqYWRrOXE4SzdwV3lxYV93WDFBZkJRRHhjYXdQMmxEbmlGcFJUZ2pXSURMZC1EaG5BLUFheWJ6T0xWMHR6Z1RiR0NITnBTM1R1UmFUQUVBOTYtcHliWGk4aW93c1djaHRZSW5yTnVjalZpNGdpMWd6NEZEMUFIeVlrcmt4a0XSAcMBQVVfeXFMTzZhMEItNGEwQlB5M3ZtQzA1ajFYbGxNakpZRUpfZFNfVFNNWmRWYVV6bEhvZU1XZGVEY3dVUnVnLWEyNHpLamFkazlxOEs3cFd5cWFfd1gxQWZCUUR4Y2F3UDJsRG5pRnBSVGdqV0lETGQtRGhuQS1BYXliek9MVjB0emdUYkdDSE5wUzNUdVJhVEFFQTk2LXB5YlhpOGlvd3NXY2h0WUluck51Y2pWaTRnaTFnejRGRDFBSHlZa3JreGtF?oc=5",
+          "source": "SEGS Portal Nacional",
+          "published": "Fri, 30 Oct 2026 16:49:53 GMT"
         },
         {
-          "title": "Gestão de risco no transporte de cargas ganha foco com integração operacional na Fenatran 2026 - Brasil Inovador",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLV90LV8xcDNVd0g3cGlLZjdtUGxSa2tVWG42YWMwTkJzSWpweTJxV1lqd0tqQm9kanNoTFFSbDZCOVpEU0R0R0tSNDBLNF9SOU1RT2hkSVFybG9MSGN5a0N0SGpNQ1FoYlozbkZMSlgtbFBfZmxtc3JkNWJDTlVNcldrbDZPcFJUN2RyRlhBVm9zMmFiUnBsdmZMVXNPMG5oT2ozaUN5TkRfZm1hU3RQRXNlU0p2X2Y4bzAwNEZQWXJuNVU?oc=5",
-          "source": "Brasil Inovador",
-          "published": "Wed, 28 Oct 2026 17:30:19 GMT"
+          "title": "Mercado de Sistemas de Documentação para Transporte de Baterias até 2035: complexidade da cadeia de suprimentos de baterias de veículos elétricos impulsiona o crescimento - Notícias e Estatísticas - IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUTA5UlRBV0J3OUpmblZyUG9aNURPc3ZwWmR6Tk5UUGtvNEgyN3Q2R0JRUmw3Tm1jM1l3WEJjbDlsTFFMdWo4MXFLZkRGRVVFUzR4cmVFMDlFbGpyTzFRYjNrN09DSHVkTkhVcmUtYkd5a0w4UlRDVW5xcHB2RXZ2R09nai1ocXA0TmZ2TXpQTzk1cWFfNGF3WWZFaGdsakZyTDhHZkQ2RmV3aEJzdFM4VE5lRzJlLU5mc1BQYnpmenBvVlZ2NVJGcnRTVDFlTU1PN05tMXBqMUNWT0x4ZXBoUzFpcw?oc=5",
+          "source": "IndexBox",
+          "published": "Sat, 31 Oct 2026 15:36:04 GMT"
         }
       ]
     },
     {
       "topic": "Lean Six Sigma",
-      "items": [
-        {
-          "title": "Startup sediada na Unicamp tem cursos gratuitos de Lean Seis Sigma com certificação internacional - niddedigital.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGJCVlVCOU9sNnoweWI0S1NFMlVrakM3Sm9UY3Z3RGV5QThBVWl3VVpxUnRocXdKVnEyZkpsVGVPcEhGckM3TVg1bXlJVjJ3dEpnWG0tRGUwSzBFdi01YzlweDRxZnZyMm0zYTEzdTM3QmVKQjlTNmxieXNZazczQno2VXRLMzl5anE3UGxianNKN1Q0elBoZWZ4QzNQMGs4ZWRLckY2eUJrNlFDSW1XaVRQMGlUNlhncnRpOFJfMGk?oc=5",
-          "source": "niddedigital.com",
-          "published": "Fri, 30 Oct 2026 13:10:50 GMT"
-        },
-        {
-          "title": "Porto de Santos tem 19 vagas de emprego nesta semana - Santa Portal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekFmOXpMUFQySk9xdUM4dkplSi1ZbmRsY1hoZC1BYUlOaXVCQi1MSERoZTFCNk81ZXNTZ1lrV2U1SER6elV6QkpSbm5HWUEzaDhsUEZ1LUUydmdvLUJxMGtnUE9LNk04QldRblR1QkpCZUJLaUVta0QwVUZ4MnB1TWk1MnVBVGVHUW1qeVB4UFJZU3MySkFuMVFTMHhMNDdN?oc=5",
-          "source": "Santa Portal",
-          "published": "Wed, 28 Oct 2026 13:00:00 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }
