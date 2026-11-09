@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-06T17:14:03.873660+00:00",
+  "updated_at": "2026-11-09T20:30:02.038164+00:00",
   "method": "Clipping automático de manchetes via Google Notícias RSS; não substitui a curadoria analítica dos briefings.",
   "ia": [
     {
       "topic": "Inteligência artificial",
       "items": [
         {
-          "title": "UFMG lança documento com diretrizes para uso responsável da Inteligência Artificial - UFMG",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeE1CWERWdUZGMWNHazFRM3J1MTlsRzQyQmdURXY2S0lxbnJpcUM4OXYwemFLXzdiQ3ZXMW9DQ3h6Rk11M2FvWTNrNERJZVFVdk11UUptOE9WZ3NoYXBLUlRxVG41ZFEtSDFQd2ZLenA4cnh4LWhpOU9PdE1aOUJMaHJnNlJuM1RoRDUtcHNtRm5fMlFqZXpJZklwUGNzVjYyeVNaOEdtT1R1LVp5WEtXSm5uUlNQUQ?oc=5",
-          "source": "UFMG",
-          "published": "Fri, 06 Nov 2026 08:04:16 GMT"
+          "title": "AtlasIntel: 90% dos paranaenses querem mais inteligência artificial na segurança pública - Gazeta do Povo",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjNUTG1NUFNkQ3JBaG52N2d4V04xU3h4NmlVMjRubVR1bzVEaE5RQ2p0QnEyQ2R2Y1BSYU0ySXJBc3FnX0RYNjFrb2pEMDg2a0lZYXdBbEZnODJ0YWNLbTJkYkxDQ0lRU3FHeW1zWmpmeHFScmFhNzZpdGtraXNCTERNc2R5clMxZnhieVJHMUVtUWdZOFZNaF9fWXBWTXdmQ2ZyX1REQTBHZWdOUzFaODY4aTNsUWM?oc=5",
+          "source": "Gazeta do Povo",
+          "published": "Mon, 09 Nov 2026 10:36:00 GMT"
         },
         {
-          "title": "Estudo analisa uso da inteligência artificial na criação artística contemporânea - UFMS",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzRTZ1k4VHpLTVQ0bkphU3ZXQWhwcTh6aEVqR04wbnRfQXNQZndPeHBDZWdCUHRRWnhwaUszZExpdmlBRDVnTlQzcGx5UDdlMFVlOFE0dUtmWi1QOWFKT0t5eUl5emRqUnA2UUVlLUpHeklPSHZPbzJ5Rmc5ZU5sLTA1LTlPcWFHTExkQ0E2T0RQMHdOX0NtRTVDa1JvVXB1Y1Uw?oc=5",
-          "source": "UFMS",
-          "published": "Fri, 06 Nov 2026 12:30:29 GMT"
+          "title": "Evento discute iniciativas de uso da inteligência artificial na administração pública e destaca caso do Piauí - Jornal da USP",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZnphQ2Fwc2dZVjhqS1JtS3gxc0s3RTNYcXF2eUZyZndVblU1NC14bjlXQUx0QUVmZER0bkxIWmcwRmZMQmE4cjVDOGtDMUQ3MWVyenBBX1JHSzVPcy0zcUFHMnJyRjBodk80WVdjYlVkdDhuSjg2SXZqTkFpeFBVVldFOFFxR01TNWFZME0tU3FzeXlkb0Nzc21IRHB4N1RwUmczZGphNmRyck55RjVoZVd1QTRwZC1wU28xTlNrVkhxNjFYR1JVWUMwWVRZa3lpVTlFdkVjTGNSSUtTdVFrVEYwUWpCbnFVOXc?oc=5",
+          "source": "Jornal da USP",
+          "published": "Mon, 09 Nov 2026 13:07:00 GMT"
         },
         {
-          "title": "Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia - G1",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90c0hJSW95N0hwQmtqa3NMUlJ3dU45N3U5YkdaekV5RUZabW9xM0tEOW5HTmw2NW9YSmJOdTVlT1hIb1RaY09yX1h1dTVid3hpNkFsbk9Uako0MFp1TVRkZC1uQmQxR29scTh6eW5rcFRPLVJ5blRseXc3c9IBigFBVV95cUxORHAtU2xyMmNFOFhVU3VpZmRzVTh0SWx5XzNPOWpNTGV0eXBoU09yYkstLU4yM2M0cFhVN29TcW9sWU9QbzczUVV0d0N5a0hkcHV6LWNqbmZjUzh3S0lOOVBHUlVHUXV2cUJIbklpcHp4b2JTTWdDUmhuT1BISTIyM0l5S0RvZExQeFE?oc=5",
-          "source": "G1",
-          "published": "Fri, 06 Nov 2026 12:43:18 GMT"
+          "title": "Inteligência artificial: como estouro de bolha da IA pode revelar os nossos segredos mais bem guardados - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XYmRPSE5yUnI4NHJtZXFfVER1czRRaU1MX3lzOXRQRWEyOWpXbDBzMFZhUkdHUUxSdFlBeVc5Mm5uUUFESlpqc3duQ1BkNmQtLXRqUkJnYzhGZ1Y3cHZ3THlKRdIBaEFVX3lxTE5JdEF5YThBamFHVWlZOEk3M2JjZDNObW1jUmdldTJWQ3Y4djVsV1dMS1NXQTREeUtKdl9lZzVFV0hFbXluU1k1NWxxWVlxZGpDcUNDM2l5cU1IODk4aWZLOE52RzRBekV2?oc=5",
+          "source": "BBC",
+          "published": "Mon, 09 Nov 2026 10:13:18 GMT"
         }
       ]
     },
@@ -29,22 +29,22 @@
       "topic": "Modelos e agentes",
       "items": [
         {
+          "title": "ChatGPT, Gemini e Claude: qual IA encontra o melhor preço na Black Friday? - GZH",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUEV2NzBhQld4NzhsZ09TQ2dYNmgyR1pBZjNFVlNSR2xadF9jMkVITUx3cklsanpDZlpZZm5IUjJaWTNVZ3RmU2tSMG1HalZTOEdETi1JTjFESW5mUDN5OEV6SmhmdHhMY1pIOTdRUFpGUEU0Nzh6S0k1SVVSdDdMN3RvSXRfdTExMkxvNHJvN1RfZTZxLWlUZGhtTklyRUR2WklTQVFWeXA0WnhwRkgtVzZtbWdJUUt4MXUtM0t4dGxtNG5TS2xWbjJscGIxNHNKTTBiLXpKYTgzVlZzMmlxMEdkamFYX0liLTVmMDE2MWg?oc=5",
+          "source": "GZH",
+          "published": "Mon, 09 Nov 2026 19:26:18 GMT"
+        },
+        {
+          "title": "Gemini, ChatGPT e outras IAs: veja quanto custa cada plano - sampi.net.br",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzV4N2hNS1BNZVN2c1JubUxaVHpySUxlX3FnTFBOU0ROa1A0a29ZXzhGYXAzQlVjZWVMZGtzOTlvWG5DVEJPcjcyM3BNQTlUQWZhYlFuM010SVozeFZfODdqWDhRazdFWS1kdkdtbWFoZl9Zb1RndWhjLU1aQUdlQnl0bVVDb2pfUUU3SGxWU2V1VkhEaUdBcGtFRWhPeXlfT0hHWTR4dktYWGVxOFNjOFdDV3VvMXFoYVVuYlVnX0c?oc=5",
+          "source": "sampi.net.br",
+          "published": "Fri, 06 Nov 2026 13:10:28 GMT"
+        },
+        {
           "title": "GPT Image 2 (ChatGPT Images 2.0): funções, preço da API e o que o substituiu - Fello AI",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSjhVQUpYNm54RndVdU0wdHdpLUphNXFaYy1EeWszN05OU29FSEZ3ejJkUlpRVWdHd3c3UWx1RnpnOE9YcVE1cW16d0gyM2NmX1lISnQ0ZndadGhEVDNUZg?oc=5",
           "source": "Fello AI",
           "published": "Thu, 05 Nov 2026 23:40:40 GMT"
-        },
-        {
-          "title": "Quanto Custa a IA em 2026? A Comparação Completa de Preços - Fello AI",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBISTJyMDdVdnVrdTBFNG1PdGl3MTdQX2RtaWExOHRIeW4xZjczVXRqUVo4WTJaWWZINm5xMHFvZFdDYzZvbmk4SEdCYUhla1BFd0J6NW5Qbw?oc=5",
-          "source": "Fello AI",
-          "published": "Wed, 04 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Melhores Agentes de IA em 2026: 30 Ferramentas Testadas e Comparadas - Fello AI",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xQ3M2c3NiX2FYTFZTMnlhQThuLXNITFdXZDhhX0NWNnNVOHBucXBUMnhqNWhxNFIwaFA0cjZFNWlpZUtWX3hkNUdIY2ltT3RndG1IRDRLYVhDdw?oc=5",
-          "source": "Fello AI",
-          "published": "Thu, 05 Nov 2026 07:09:42 GMT"
         }
       ]
     },
@@ -52,22 +52,22 @@
       "topic": "Segurança de IA",
       "items": [
         {
-          "title": "OAB/ES promove debate sobre os riscos empresariais e investimentos - Migalhas",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzIyVnI4NXpoTzloRGl4Uzdsb3labi0xYVpoNUp3d3NjSFBQNVFJZFQ5RGtxRHNBaktTdkZoSVdlOERFcEU3THNsNWVIWmRrQmpuejZQdTJxOVc3UUZlbWpCWW92OHF4Y3RmRGhxeW9HSm55Yk9mamE0RDVQcDFVWkxxMG5fWHF5WURDOGRBZWY5YmZvQk5mOHJEd1BLeWJmUVNmVl83U0F2WkpnMVE?oc=5",
-          "source": "Migalhas",
-          "published": "Fri, 06 Nov 2026 09:45:14 GMT"
+          "title": "Blip nomeia Patrícia Ilha para gestão de segurança - Meio e Mensagem",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0gzd055MWU0YVQ4b0FhSjREcHhJTV8xNnFmMHlJd09MYTBGdUdEZzd1SGxlSzBFTF9yVnBSTmRPVkpid1NUZGNrVmlsWlQxVlNCcGNhVVkzTm5mYS1pMGZ0UkRINnEzTUZqWF9PZ1NwZEZMR2ZHU1FuT0Y5OFowc2hBS3FNMEJ4azhFLUUzYTI1a00?oc=5",
+          "source": "Meio e Mensagem",
+          "published": "Mon, 09 Nov 2026 09:03:00 GMT"
         },
         {
-          "title": "ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial - UN News",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNWczNTVSSS1hWVU1TEJyUWsxT280WERaQ2tuTEY0YWZpQkowdzJ3bmVOUmJiMEJ4dmRXNGRkbHRBbWMwVjNXYy1DT1RVYmZGQ1FHMGZ5VQ?oc=5",
-          "source": "UN News",
-          "published": "Fri, 06 Nov 2026 05:05:00 GMT"
+          "title": "Governança chega após IA e impulsiona crescimento seguro - Portal do Val",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOazBaU0YxTFRjZ3JFRHpld2RrdUZMZEJyc1lmV1hWZGhTZzBrR1NTeDdaUF8xaXhwbzVrTTVxWDNFMm5LR2habHIzSFhxVlFlZjVXWXVuVTM1Z1g2Wk5ydkhQQWpaa1IwM1U3dDhHbXdpRHhMaW5SZFgza1RZTkU3b2o1ZXd0UHpnZExja21OMEgwdDJaVzREV0E0LURqUQ?oc=5",
+          "source": "Portal do Val",
+          "published": "Mon, 09 Nov 2026 12:55:26 GMT"
         },
         {
-          "title": "ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial - BOL",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDFvRk9SSVdRNXd6ZHBKRzd3VEYzSENuM1lLdTBZMUxGckF1LUJxd2RDZHIweVhodFBJM2JIZ0JOZFZ5c1dyNHI0SWVyYml5M2lXUmJvQWJMWDNCOHFMYjR6aktDWUJlM0ZmQm95aUlWTGVzRGNkUHc2SGY1TDdNb3RtQldaTUlBM055aXNfVHA5bDNvb0RNbWplQ3NDaUJSOEVJMlBMZXppQWFNUWtVNmJONVNIMnljZjV1VktGdlk2dUUwRzQzZkR0LXNQWXlmckHSAdIBQVVfeXFMTTAxb0ZPUklXUTV3emRwSkc3d1RGM0hDbjNZS3UwWTFMRnJBdS1CcXdkQ2RyMHlYaHRQSTNiSGdCTmRWeXNXcjRyNEllcmJpeTNpV1Jib0FiTFgzQjhxTGI0empLQ1lCZTNGZkJveWlJVkxlc0RjZFB3NkhmNUw3TW90bUJXWk1JQTNOeWlzX1RwOWwzb29ETW1qZUNzQ2lCUjhFSTJQTGV6aUFhTVFrVTZiTjVTSDJ5Y2Y1dVZLRnZZNnVFMEc0M2ZEdC1zUFl5ZnJB?oc=5",
-          "source": "BOL",
-          "published": "Fri, 06 Nov 2026 12:00:00 GMT"
+          "title": "A advertência de Nick Bostrom sobre o futuro: \"O maior risco da inteligência artificial não é a sua maldade, mas a sua competência cega.\" - Correio Braziliense",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWnpkQ3RPNjl6VVYwSDNxV1UtMUZCOEs0S1VSQzZxdlhFV3lrX0tNenRGQU1VY092T1RiM2xVVXpac0RjcmMxZVEyWkhPNmNjRU1UZ3hoaVhBQlFIeTFEXzJnbFk3RWhtbDVrZUhCcmlDNEZOOFJ1VmRBTTBKQ0RnUkJjY1ZEZzZmd0s4RXhkMTRRYWVtSWRPRlY0bmhua1d5S1hicXNqcXpsVFVCZXFLU3BpQ1BVXzR5NjJRMk1jbXZvUjBQVWxXSGxic0RpNWtUNGUtaTNHbEhCZmdadkdxelJLY21FU3RsMTZ2T3dKRml1ci1CMkVtWVhIQzdiMDFZeXZZRzJCX19URmc?oc=5",
+          "source": "Correio Braziliense",
+          "published": "Mon, 09 Nov 2026 20:25:00 GMT"
         }
       ]
     }
@@ -77,22 +77,22 @@
       "topic": "IA em operações",
       "items": [
         {
-          "title": "O Walmart anunciou que vai destinar cerca de US$ 6 bilhões ao longo dos próximos anos para expandir o uso de tecnologias automatizadas em 25 centros de distribuição nos Estados Unidos. A iniciativa será conduzida em parceria com a Symbotic, empres - Instagram",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83LURwUElqU2t1SkpqbndzTVd2SkZuQ1BQYVJYa20yc0ZoandKTmQ4VFhlSUowUnA5OGQzb3hpdy1IVVRSZmdQU2tsb1FQSWt4Y3c?oc=5",
-          "source": "Instagram",
-          "published": "Wed, 04 Nov 2026 12:00:54 GMT"
+          "title": "IA não uma é caixa-preta que entrega números mágicos para a operação, diz Paulo Tavares - Mundo Logística",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWFGRlpzNnk0eU1LcF91dm1LMHBqdjdVWEZXcUlWSXZveThNQlhTNC1iSDY4WlpqMEIyMGtqYUxxWW5YUXJ5T1llazVwX0lyTUp6dDlmU09NY19ia2ZCR3RGdk9mLUc0RXByZFEzclo2d29QUmJVdHY4cVp5RXhxWWhjclMxRHI3M3JGLWg4OE5LSmVISHBOcmZTRGVJank2dlFGSzdKT1hFY1l6R3NaSTl3?oc=5",
+          "source": "Mundo Logística",
+          "published": "Fri, 06 Nov 2026 19:57:04 GMT"
         },
         {
-          "title": "Pesquisa da Lalamove: mais de 75% das PMEs que usam IA afirmam que seus negócios agora operam mais rápido - Sala da Notícia",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNDJiUGRuU0VJUnpRN09vRExnR2VjaUNxZnRTVHliUE5NSDlfbHUtaGYxVENua244am45Tmtoa2FZWEF5LXJOeXBQdlotUzFScExuQVpaMXV0YzRoM1YxNDdQQ2doNkFSX1RGanh6NTZHcHFLWHRkUS1GWTA2bzRsNjZodjNMdjhaOTJOLU1OSDRtdjJOYVFLSVlqQXROdTJBeHkyY3R0bVk4anN2UmNJaTlHRnVrVnZHcnZhbjRiSE1mSDRRQ0RTNkRjeGVlX2NYRjYyZTY3LXljUE8xSVZZX2s0R3RseFF6d281N1p3?oc=5",
-          "source": "Sala da Notícia",
-          "published": "Wed, 04 Nov 2026 11:51:40 GMT"
+          "title": "Skyways obtém dispensa da FAA para operações de drones de longo alcance em alto-mar - Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVh0RFctbkNad3lZZFB1a1ZLeG5PNUZHNXY4X2tGN3JxalJiZmhHeXRyS1UtYldVbUU1Yk1zbEpMM0pBVFAyU0VSVmZCVjN6bHVqbXhYTTVIUTE2eU5LdEJScHpLVHZGNEtLTjcyWk1PTXpXUlNjX1N3bjJzc3RybTI1MzhyTFhyaldMT0FyYlR3akZKUFhr?oc=5",
+          "source": "Unite.AI",
+          "published": "Mon, 09 Nov 2026 16:28:04 GMT"
         },
         {
-          "title": "SAP anuncia novos recursos de IA para automatizar processos empresariais - Portal ERP",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXZOWDAyZmJpZXJLT1Y0QnFmMTNJdDBmWG9RTXhUYTQxdEx2cnVFaUNyMTF5Mk1XeTlrRXRPbnhzdmxod1FLVDNiaHRmQ0pDVE1nTGRwNUFOZUtQLU40eDRGRjhUQUotd2dZeFNFbjFkQ01MY3hpejh5WUZNS0kyUUwwSnJobXlIWDU2Y2R4WE81ZnhGU2N5dmx1OTExNW9Ec0E5eGFpZTE?oc=5",
-          "source": "Portal ERP",
-          "published": "Tue, 03 Nov 2026 14:11:39 GMT"
+          "title": "Comercial Maia conhece avanços em robótica e IA na China - O Otimista",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY242X2NZSU1yWDJpd1QxR2xnbXZXSHZadkdXMGZiX0hFSENDUDJuR2pzNS1lelNka1hCVHlxQ3VvYU5oYjhoblB1eDlaUmN0VDJwUmFoLU11WE5nenFXekF3STZGMUl2WGtUSHJRaFp3WW1Vd1p0aml1NE4tZmw1NnFUNjZlRS1xVGJDbmkwQkVYajBMWkU5QUZVcnpQUmR3M2JReldPYTNnaGFNY2hVUzB2TGU?oc=5",
+          "source": "O Otimista",
+          "published": "Sat, 07 Nov 2026 01:48:24 GMT"
         }
       ]
     },
@@ -100,22 +100,22 @@
       "topic": "ESG",
       "items": [
         {
-          "title": "Empresas que priorizam sustentabilidade quase triplicam e podem chegar a 58% até 2028 - Envolverde",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTms3UU1veGxvSUstS2J1eFA0WGdoNUNuZFlKamdlT0VSalJwdmNyRGxON2xCVjJUcER3TE5uMk9tdC1iNWowaFdHU3g3NjNGVTNselNOeEhiM0VmZG9ocHRrbW5aRXpTMXlVa08wVkV3ZzVkWm5sTmZxX2t5MFdVNzZSX0VZdnQ1SWh6QXVaeUp3YzQ1UnJMOUsxby1rUGRPRGVxTnBhcGpIVWk3QkxPWnAwSTFSVVN0Z0E?oc=5",
-          "source": "Envolverde",
-          "published": "Fri, 06 Nov 2026 16:15:05 GMT"
+          "title": "Entidades de sustentabilidade lançam movimento para barrar retrocessos na agenda ESG - Valor Econômico",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXFDTUg4TnJfcFlvSUw3LS0xYXVKcV93TlkyYnpybTlXLVhkTFNjLW5nTmVCSDJkRUtfRnRuLXZyV3JWQUVpeWNHMkxXUV9CSS1YTmlQNTdUTlFDY1lfUllYdW9QcjNKb2FkQU9sNzg4WS0xRms0UU5mRVRXa2w0N08yR0J6MUJXeUFCTUpuajV1aUM1NkZDYnNRdl9ZTTlRS2JBQm1hd1ZlSkhXR29FUy1rNm56NVZvaHVqRWlSdVZ4UFhCcFZlMlNzYlJsR2I1ZE9pb191b1E0SDJZ0gHrAUFVX3lxTFBmZGs5M2VET0FsS1hUX2FoeXJMelpPRHdiTjJBbkJaMGVQQ0g4WlRteGc3UUtnRTJhV0xxNUtFZms3OEVqRmRsVVFXbjc1LXZrcjVlNkE3Vi1lQmZTeXV5bWdkbTBiNXFiZDlnTUY2WXpaREhENXJBRGNsR0RfTWU0alhhQnpnWlRrZzZWOHlqZW4xYXo0c1NKV01Ic0d3bVZzSmE1amtuUWtCRkN4U1NNc2Z4X0NCSVJkYXIyYW0yS0F4b1lEYjNPZ2UyU0hYMFZjZk9fSFVpTzBvTzdSRzJjbUo4M1ptcjQ3a3M?oc=5",
+          "source": "Valor Econômico",
+          "published": "Mon, 09 Nov 2026 10:00:00 GMT"
         },
         {
-          "title": "Porto de Galinhas lança política de sustentabilidade e prêmio ESG - Brasilturis",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb09mbmFDSDVVTlJsSlphVndjVEhMdG5qNTVreXM4SFY2ZzVWbE12eVdoU0JpdWVVZFhNRTl2WmFGUUY5YlExYnVOTVNxRUNrT0N1QjQwbDJWVG4wbVM3eXJhX3ZfQjBNWVhFdmNxbWNGdDh0S3NTVHhaNFN1ZE9lZlotTk9sX2hVRnMwWWNwNm1xREthWW1RMHFKTVVsbklsUXhKQjNxMA?oc=5",
-          "source": "Brasilturis",
-          "published": "Fri, 06 Nov 2026 14:50:37 GMT"
+          "title": "1 em cada 4 empresas incorpora ESG à estratégia de negócios, aponta estudo - CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjhYdzY4T00tQ0ttNHVfZFhMTHRBQ2RpclAycnNhb0w1T29kMi1hN3VxX29WU1J1b0FRb0NTalpORloyalF4M1pIbXVEbkU0RjZrOHJsX1NkNU1LcW9KYm1YTXp5WlJQbWJqTFBxOFV3VzFNMXlZcmZPWTctN1dnS0RFbEJSRTdqUUNhZ3lMZWdzdmNsTm1xUlVVcG9hcWl4YXhodllyOHh0VHZzdkxqOTZmU2tnM0ZyVnZ0WmxPVFdqSU91cEFKdlZNbkl3RktHVUswbHFjUzMyNFpDQUVLQ0t3Zw?oc=5",
+          "source": "CNN Brasil",
+          "published": "Sun, 08 Nov 2026 17:19:25 GMT"
         },
         {
-          "title": "ESG deixa de ser discurso e passa a influenciar negócios e fornecedores, aponta especialista - Gazeta do Povo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUk1IR1VSYkY4QnZXNTZYRlZReVBtcEtDaEFDaDZ2VTZRRlFwSy0yUFVxY0FCSnRPTFZfQU9EeTNwWTNIVWVKRzJvdDdLT2FjM28wcHhQT3cybGpHeGdIeHNESUVHTUZWT2l0SGJPRkpnUlBXS2k4TWZ6TXNIaTRxZ3djTmJjU25uNnhpeldJT05IdURfdDRlLVhCMTlLQjA?oc=5",
-          "source": "Gazeta do Povo",
-          "published": "Wed, 04 Nov 2026 18:11:00 GMT"
+          "title": "Brasileiro está mais pragmático em relação à sustentabilidade das empresas e do governo - Estadão",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE5PSkZfQXFoLVlzR3FabkNvWlZFV1dhMlJDRjJPMmF3QnBSeTB0QktEMUhDUVAzY1huUXZJWVY3RElmM0ZFTWp4QzBPa3lvWjhXanhwWHI0akdvWWxjYUtqaWFOMDRPNWs0cmRwRkhTSDRWNnVDcXhuR3pINnRQLUFxMGRrRzI5U0JPS0FsYlhjelpKVlZGRGdlR0ppbkpxdVdZc09OT1I4NHlrZXo3MDFNWGRFdjVtanFJNnQ5U0s2Y2thYmtvQ3lRSWFuQdIB0wFBVV95cUxPRVVYOHlXOUJvQUVCc2MtdFExM3g1QTN3QU8wUVVwSXZPMGctVGM4WVhzTUtjRFl6anBlT0N3WlNSRXhDbXVBVlJiY2dmZF96QmRiZG1mOW91VWlmZ3FxLUtmQXkxTzh3dGY5bjdOOXRuZmI4QzlvVGpjMHlzeHV0SDNYeUpVbnZZR2NzTDZaZHVOLTAwR3IzelVGYlhrdkxQYXhSUndyNXBza2hCWE1ZU1dkMW1PYVF0Y2RvMjN2TW4wSzc1OTVWY3FNMzN3Y3ZfMHQ4?oc=5",
+          "source": "Estadão",
+          "published": "Sun, 08 Nov 2026 08:30:00 GMT"
         }
       ]
     },
@@ -123,22 +123,22 @@
       "topic": "Qualidade e processos",
       "items": [
         {
-          "title": "Dmae realiza modernização das ETAs Bom Jardim e Sucupira - Portal da Prefeitura de Uberlândia",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUhzUkNxVHZyUkNLWGl5SnVhV3I0RFpuNGdUZGtlTWV2d3oyQnBFODhsWThJNnBfb3dVX1JaVGtuVVFvMmZsSk5vM2NOS2pvRFI4VWNTdl8zNURnX2lBNnRrZGZaTldfNi1RSEpya0RQOGM3TnhVeWNOSmdjV0ZkSnFCSGFrZXN3ZGdpd0VtOGwybmFKRi02RlJweU9lZnB2RXVB?oc=5",
+          "title": "Vigilância Sanitária orienta instituições geriátricas sobre boas práticas e cuidados com idosos - Prefeitura de Jundiaí",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmdrSEpxdmNFc1NReC1KVWl2QlNKTjY4ZmNTXzFDTDZXODdaeFJFMXNHYXZiRzdBRWplSnFCMFRQV1QtRTllRVpLZVFIUkN5MHZzeU44blFCS0dEU0FMNHRoRF8wSEpRNklpbWV0Nk5RTWQxbU9tdnBfcW1zR0pxTkgwV29GN25LUUM1cm1SZ0NydHNQUTZRVlpoQ3lkeGU2NDdUaEFlWlN4UUhBRnM4ZlY5LWFNbnVwLXZNck1mZUdlUmN5dm9hQWZ6V2g5RURDWUhqV1JHOWZVT2FXdnduRFhjM3VHV1hlU2dWM0NEXzVkdw?oc=5",
+          "source": "Prefeitura de Jundiaí",
+          "published": "Mon, 09 Nov 2026 16:31:00 GMT"
+        },
+        {
+          "title": "Implementação da Certificação GLOBALG.A.P. em propriedades rurais brasileiras: desafios e benefícios - Food Safety Brazil",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3h5TFg1UUpxeWY1YXBfZVZmVERIcVl2a1lUU1FlYWhPQkJlLWtEWEZxaWtyTjRlZ3RxXzBlWFVFNktxVktNc2Z6MmZFTU9nV1NHZ1hQUGY3RzRBNTZJYWFPd0RmY29JdEZPUC1JNzRYUHE2U19ncU5QUHhXM21odzR2VncxbVlyWF9sXzFvLWZ4aUN1QnBvUVNUR3A1dlFtb1kxeUlqUlN1TTd5UXBwN0hpeVRCRy1OR2x3ZWhOY3lzcTNDRVdz?oc=5",
+          "source": "Food Safety Brazil",
+          "published": "Mon, 09 Nov 2026 09:14:39 GMT"
+        },
+        {
+          "title": "Prefeitura realiza capacitação destinada a gestores e fiscais de contratos administrativos do Dmae - Portal da Prefeitura de Uberlândia",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQem0xRVNfVmxfNmhlNGVlUWhpWEd6cVNqcEpVQTM2ajhlZWl2aHJQQ3cyNHplRVl4cHMxVlJGa1pxVVdhalgtZlVDQV9yQ1dFT0tFcHhJWmZfb2tzZFByc1cwYVlWRDBpYXREUXZBMDF5OUpQbmV5Mko1RXE5dGJwQUJNeC14RzdUbnZiLWJtTTlDcFVoWGRvdkRVcW85Tzg0X3d6LXNtaUNxelVEZ19kZ0tYZUdoaTcwcUgxanhHTzVZSnVxTjBJd01fTGxtRG8zOHk3ZHlidHc4Zjg?oc=5",
           "source": "Portal da Prefeitura de Uberlândia",
-          "published": "Fri, 06 Nov 2026 11:31:47 GMT"
-        },
-        {
-          "title": "Hospital Santa Isabel conquista certificação Platinum da Rede Angels - Medicina S/A",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaR3UyQW16WFoxOXJwWjN0NXVkbXZJS0tFZWVEeGZUR0F5cXl4Z09hS0lfSDJ3dEdYQVllZE9aZzhSNm9GWFZQSmx5OTdjYkxZc0toN2pkU09JWl80c2FBLTFDVG9UQQ?oc=5",
-          "source": "Medicina S/A",
-          "published": "Fri, 06 Nov 2026 12:30:44 GMT"
-        },
-        {
-          "title": "Hospital da Cidade cria plataforma de treinamentos para ampliar a qualificação dos profissionais - al1.com.br",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHBSUjVlN0dUY2p3TEwxaTAxWXNzQWd4SWM5SWx0QTZvcmFyd3N6dmZaN0V1X2lhVERwRFZ3dWVRWW1zcmdnMHlfR3AwcWRVSWlBc0VzWnVVVmo0bmVVNnRGVVV6VFRocFJIaS1xejJMVWVoTzA0OVNjelE5Qk9hdmNCclQ2TUw5WDZ2UmNOLWtMSzJEVVVYTllMdXM4WWJOYnUzWHphZXUtd25mNksxdkVUbjZRZzVzMEFsazhEUEJ0ZmNNNWRmTVVKeERycmp3R1dwOTdpdw?oc=5",
-          "source": "al1.com.br",
-          "published": "Fri, 06 Nov 2026 15:37:34 GMT"
+          "published": "Fri, 06 Nov 2026 21:57:03 GMT"
         }
       ]
     },
@@ -150,18 +150,6 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnU5V2dWOE1Rc3NOREFWUVUtWmdGNVQ1UmlpM1U2Q1MwNWlEbnZ1dnJyazYxTnJ4MHNZejhsLTA2dGp3UGRIWkJOdEFHYS0xeVJqZWxDeTJtMTVCeUlSSFk5UHdPWV8xamdjdXhGWVlOWkFyVURkcWdOSlV5cTk0NnB0UVlfQkljRWRMSW9CVDBIUGF2WnpvWmxncTViMm1tTVp3aVNFZTJEZDJkR1E?oc=5",
           "source": "Migalhas",
           "published": "Fri, 06 Nov 2026 12:50:28 GMT"
-        },
-        {
-          "title": "Crises geopolíticas e filas nos portos elevam riscos logísticos para empresas brasileiras e ameaçam prazos de entrega - Portal do Agronegócio",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQS2lFN01JX3QyYkJfXzFreVljZUR3bWl6b3lsZ3lDZlJ1SC0wVzBUcmQyYWtWQ3ljVmk5SlJZeGZneEVSV0VtME5aOVNQZzlKYkFIOWg1VWFmeWFxZ05NdjRrZEFCZ3NwNW9HaHE5VTlxRllfVkxtd2o3MkhseWczb3hqVDlqRGxUR1oycDBWdWFVdWpXQXdIS0hCekpQeW9NamZLRUdsUVRjUk5xOTYtamVYN3BNZVRGSm5vNllWSE44b2htX25wQ0dacjQ0MDBjM2k0MnY2eDloM2FLQ0QwYVl2YnlHTUZTVXhJVXp4R3pzS29MMHk2UmxVNnYzRXEwWFJnNldOb3JOR1pub0szZmNmbUJrOUZRd3JlRGlORE1DRFU?oc=5",
-          "source": "Portal do Agronegócio",
-          "published": "Thu, 05 Nov 2026 12:30:00 GMT"
-        },
-        {
-          "title": "Falhas antes do embarque expõem cargas a riscos - Transporte Moderno",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTF9WZWFxLXVJOUdLZW90WVE2VDM3RnRBc1lSTEtVVDJ5M3VaRVV2V3hoWEd1RTJmVnRLRTJ0TjRNNlhsMFpJTDJ2eFFzMlFqX1hHV1RTa0ZjaUFUQjRkM011NldHSTBmVVZNdEtTQ2lxYTFaMGNkaF9rNGxOcVlYXzY1b284akQ0OVJmTkRVVnhQVzNOUjBV?oc=5",
-          "source": "Transporte Moderno",
-          "published": "Tue, 03 Nov 2026 13:29:00 GMT"
         }
       ]
     },
@@ -173,12 +161,6 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjVUUFNXa0NOeTBGNU1OOGlpbWVqLTJib1hadHpmTnhPSjBzX0tjSmwxd1hNcmtSVGJjeVhBWFAzcHFTajdNaTh1a3dtR2ttb1dETGtCOTZZR3dXdUdZYXZYY0g1enk0cERyWlhqT0pDdzBSY0U3Zjk0aFVyaUVTdkFQbHVRTWQzZmZGNWctQWZfZ1Z2NFZMMHRvZ0NFekYtRDctaTA1cHV0T2d1RkM3bUgyWG4?oc=5",
           "source": "AGÊNCIA CH",
           "published": "Fri, 06 Nov 2026 13:30:44 GMT"
-        },
-        {
-          "title": "Porto de Santos tem 23 vagas de emprego nesta semana - Santa Portal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjhsUVlNLURFa1JOdnhmY2ktUkthWUhZVDZMUHlTbW9CbllueEhnRmlzVTVtdXhfNHpqRnNENkVWbDZ2eFk5NGhqQ1JPM3JoaFREcDBqdEtIZXFnUHQ2MmhGaXQ3cDY4NkhvUVJpNndoc3g3TjlBZXM0NlJzcVFpTEJxQVVZWjhldURxaVV2RXE4a2EzSnlSUGdUYkppUjhf?oc=5",
-          "source": "Santa Portal",
-          "published": "Wed, 04 Nov 2026 18:00:00 GMT"
         }
       ]
     }
